@@ -11,7 +11,7 @@
 
 ---
 ## Usage
-* Install: `npm install`
+* Install Dependencies: `npm install`
 * Change the `devServer.host` to your local I.P. address
 * Start Dev Server: `npm start`
 * Run Tests: `npm test`
