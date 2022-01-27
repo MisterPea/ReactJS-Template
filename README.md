@@ -1,4 +1,4 @@
-# ReactJs Template 🌿
+# ReactJS Template 🌿
 
 ### Minimal React template that includes:
 * Webpack v5, Webpack CLI & Webpack Dev Server
